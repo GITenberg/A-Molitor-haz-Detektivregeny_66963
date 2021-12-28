@@ -1,5 +1,8 @@
 _repo: A-Molitor-haz-Detektivregeny_66963
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66963-h/images/cover.jpg
 creator:
   author:
     agent_name: Biró, Lajos
@@ -12,6 +15,8 @@ creator:
     - https://hu.wikipedia.org/wiki/B%C3%ADr%C3%B3_Lajos_(%C3%ADr%C3%B3)
     - https://en.wikipedia.org/wiki/Lajos_B%C3%ADr%C3%B3
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66963#A-Molitor-haz-Detektivregeny
 gutenberg_issued: '2021-12-18'
 identifiers:
   gutenberg: '66963'
